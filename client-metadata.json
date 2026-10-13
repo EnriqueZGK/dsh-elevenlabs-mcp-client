@@ -1,4 +1,5 @@
 {
+  "client_id": "https://cdn.jsdelivr.net/gh/EnriqueZGK/dsh-elevenlabs-mcp-client@main/client-metadata.json",
   "client_name": "DeepSeek Harness",
   "client_uri": "https://github.com/EnriqueZGK",
   "redirect_uris": [
