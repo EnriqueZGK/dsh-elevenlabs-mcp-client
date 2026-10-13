@@ -1,0 +1,17 @@
+{
+  "client_name": "DeepSeek Harness",
+  "client_uri": "https://github.com/EnriqueZGK",
+  "redirect_uris": [
+    "http://localhost:3334/oauth/callback",
+    "http://127.0.0.1:3334/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "convai_read convai_write text_to_speech speech_history_read flows image_video_generation voice_generation"
+}
